@@ -6,7 +6,7 @@ To run:
 
 * download the hoover.js file and input.txt file to a folder on your local computer
 * from your node.js terminal navigate to the folder containing the above
-* run the following: node hoover.js
+* run the following command from your terminal: node hoover.js
 * results of the application will be outputted to the terminal
 * optional: if you would like to test the application with another input file inlcuded in this project you can update line 36 in the hoover.js file with the filename to be tested by replacing <-filename-> in the line: var finput = fs.readFileSync(<-filename->).toString().split("\n");
 
