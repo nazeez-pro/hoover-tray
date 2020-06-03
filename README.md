@@ -12,7 +12,7 @@ To run:
 
 The additional txt files are test files to be used as input for the above program. Details on each file below:
 
-* input - original input provided from the assignment
-* input-no-dirt - no dirt patches are found in the room
-* input-wall - the hoover directions lead the hoover into a wall
-* input-wall-option - the hoover directions lead the hoover into a wall but a turn can get it out. Though assignment text states that hoover should skid in place. 
+* input.txt - original input provided from the assignment
+* input-no-dirt.txt - no dirt patches are found in the room
+* input-wall.txt - the hoover directions lead the hoover into a wall
+* input-wall-option.txt - the hoover directions lead the hoover into a wall but a turn can get it out. Though assignment text states that hoover should skid in place. 
